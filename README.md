@@ -1,4 +1,4 @@
-# Wassim | Full-Stack Developer
+# ABDERRAHIM| Full-Stack Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Aspiring+Full-Stack+Developer;Building+Digital+Experiences;Turning+Ideas+Into+Reality;Always+Learning.+Always+Building." alt="Typing SVG" />
